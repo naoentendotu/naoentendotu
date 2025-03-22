@@ -1,9 +1,28 @@
 # 👋 Olá, eu sou a Tuliana!
 
-Seja bem-vindo(a) ao meu perfil! Sou estudante de **Ciência da Computação** na Universidade Federal de Mato Grosso, atualmente no **6º semestre**, e estou sempre buscando aprender e me aventurar com projetos e experiências novas.
+<p>Seja bem-vindo(a) ao meu perfil! </p>
+<p>🎓 Graduanda em Ciência da Computação na Universidade Federal de Mato Grosso</p>
+<p>📍 Cuiabá, Mato Grosso, Brasil</p>
+
+## 🛠️Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,react,js,ts,css,cs"/>
+    <img src="https://skillicons.dev/icons?i=html,react,js,ts,css,cs,net,git"/>
   </a>
+</p>
+
+## 🎯 O que estou aprendendo?
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue"/>
+  </a>
+</p>
+
+## 📞 Vamos conectar?
+<p align="center">
+<a href="www.linkedin.com/in/tulianandrade" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 </p>
