@@ -2,7 +2,6 @@
 
 <p>Seja bem-vindo(a) ao meu perfil! </p>
 <p>🎓 Graduanda em Ciência da Computação na Universidade Federal de Mato Grosso</p>
-<p>📍 Cuiabá, Mato Grosso, Brasil</p>
 
 ## 🛠️Tecnologias e Ferramentas
 
