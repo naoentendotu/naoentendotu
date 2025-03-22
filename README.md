@@ -14,14 +14,14 @@
 
 ## 🎯 O que estou aprendendo?
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue"/>
   </a>
 </p>
 
 ## 📞 Vamos conectar?
-<p align="center">
+<p>
 <a href="www.linkedin.com/in/tulianandrade" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
