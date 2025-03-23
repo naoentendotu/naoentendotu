@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Tuliana!
 
 <p>Seja bem-vindo(a) ao meu perfil! </p>
-<p>🎓 Graduanda em Ciência da Computação na Universidade Federal de Mato Grosso</p>
+<p>Graduanda em Ciência da Computação na Universidade Federal de Mato Grosso</p>
 
 ## 🛠️Tecnologias e Ferramentas
 
