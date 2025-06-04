@@ -7,15 +7,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,react,js,ts,css,cs,git"/>
-  </a>
-</p>
-
-## 🎯 O que estou aprendendo?
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue"/>
+    <img src="https://skillicons.dev/icons?i=html,react,js,ts,css,cs,git,vue"/>
   </a>
 </p>
 
